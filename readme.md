@@ -1,6 +1,6 @@
 # angular-commmit-rule-cheetsheet
 
-Angular's [Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelines " Git Commit Guidelines") for [cheatset](https://github.com/Kapeli/cheatset "cheatset").
+Angular's [Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines " Git Commit Guidelines") for [cheatset](https://github.com/Kapeli/cheatset "cheatset").
 
 ## Installation
 
